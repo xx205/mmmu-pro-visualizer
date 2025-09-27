@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# Outputs
+mmmu_pro_pairs_idjoin_mathjax_mp_options_listed/
+images/
+
+# Datasets caches (local)
+cache/
+*.cache/
+
